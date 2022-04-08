@@ -33,9 +33,9 @@
 
 <h2 align="left">Github Overview</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimialary" alt="kimialary" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taosthr&show_icons=true&locale=en&layout=compact" alt="taosthr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimialary&show_icons=true&locale=en&layout=compact" alt="kimialary" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=taosthr&show_icons=true&locale=en" alt="taosthr" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kimialary&show_icons=true&locale=en" alt="kimialary" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=taosthr&" alt="taosthr" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kimialary&" alt="kimialary" /></p>
 
